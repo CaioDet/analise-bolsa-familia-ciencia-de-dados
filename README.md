@@ -15,7 +15,7 @@ A análise foi realizada utilizando dados abertos do governo federal (VIS Data 3
 
 ## 📊 Resultados e Visualizações
 
-### 1. Desmitificando o "Efeito Natalidade"
+### 1. Desmistificando o "Efeito Natalidade"
 A análise da composição das famílias beneficiárias revela que o programa atende majoritariamente famílias pequenas (1 a 3 integrantes). A faixa de famílias numerosas (6 ou mais pessoas) é mínima e estável, o que contradiz a ideia de que o programa incentiva a geração de filhos.
 
 ![Evolução do Tamanho das Famílias](grafFamilias.png)
