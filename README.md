@@ -43,6 +43,6 @@ Como historiador, vejo que os dados desmentem preconceitos enraizados. O Bolsa F
 ---
 
 ## 👨‍🏫 Autor
-**SCaio Vinicius Detoni*
+**Caio Vinicius Detoni*
 *Professor de História e Estudante de Ciência de Dados*
 - [LinkedIn](www.linkedin.com/in/caioviniciusdetoni)
